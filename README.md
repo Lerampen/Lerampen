@@ -8,4 +8,5 @@ linkedIn: www.linkedin.com/in/stacy-apeyon-
 Instagram: https://www.instagram.com/lerampen_stacy/
 - 😄 Pronouns: she/her
 - Born in the land of "Hakuna Matata"🦁
+- [![Stacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lerampen&hide=contribs,prs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -23,6 +23,7 @@
 - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerampen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 - ---
 - [![](https://visitcount.itsvg.in/api?id=Lerampen&icon=0&color=5)](https://visitcount.itsvg.in)
+- [![Lerampen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lerampen)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 

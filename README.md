@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on a expense tracker app
 - 🌱 I’m currently learning Android development and how I can continuously make better android applications.
+- 🌱 I’m currently learning React
 - 📫 How to reach me:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lerampen_stacy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stacy-apeyon-) 
 - Born in the land of "Hakuna Matata"🦁
   

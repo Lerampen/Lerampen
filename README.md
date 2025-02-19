@@ -22,7 +22,7 @@
 
 ## 📊 Stats
 - [![Stacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lerampen&hide=contribs,prs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Lerampen&theme=dark&hide_border=false)</br>
+- ![](https://github-readme-streak-stats.herokuapp.com/?user=Lerampen&theme=dark&hide_border=false)
 - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerampen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 - ---
 - [![](https://visitcount.itsvg.in/api?id=Lerampen&icon=0&color=5)](https://visitcount.itsvg.in)
